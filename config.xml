@@ -1,10 +1,10 @@
 <service>
-	<serviceName>cubanet</serviceName>
+	<serviceName>CubaNet</serviceName>
 	<serviceAliases>
-		<alias>cubanetnews</alias>
+		<alias>CubaNet_noticias</alias>
 	</serviceAliases>
-	<serviceDescription>Muestra los titulares de la Prensa Independiente CubaNet y permite leer las noticias publicadas en dicho diario.</serviceDescription>
-	<creatorEmail>ADD CREATOR EMAIL HERE</creatorEmail>
+	<serviceDescription>Muestra los titulares de prensa de la p&aacute;gina web CubaNet.org y permite leer las noticias publicadas en dicho diario.</serviceDescription>
+	<creatorEmail>tecnicodecubanet@gmail.com</creatorEmail>
 	<serviceCategory>informativo</serviceCategory>
 	<serviceUsage>
 		<![CDATA[
@@ -14,7 +14,7 @@
 			Para: {APRETASTE_EMAIL}
 			Asunto: CUBANET
 
-			Recibir&aacute; un email con los titulares del periodico cubanet.org, desde el cual puede leer las noticias.
+			Recibir&aacute; un email con los titulares de CubaNet.org, desde el cual puede leer las noticias m&aacute;s recientes de Cuba.
 		]]>
 	</serviceUsage>
 </service>
